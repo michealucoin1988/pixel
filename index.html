@@ -1,0 +1,14 @@
+<form action="https://hpp.prueba.santanderelavontpvvirtual.es/pay" method="POST">
+<input type="hidden" name="MERCHANT_ID" value="<?=$merchantid?>">
+<input type="hidden" name="ORDER_ID" value="<?=$orderid?>">
+<input type="hidden" name="ACCOUNT" value="<?=$account?>">
+<input type="hidden" name="CURRENCY" value="<?=$curr?>">
+<input type="hidden" name="AMOUNT" value="<?=$amount?>">
+<input type="hidden" name="TIMESTAMP" value="<?=$timestamp?>">
+<input type="hidden" name="DCC_ENABLE" value="1">
+<input type="hidden" name="SHA1HASH" value="<?=$sha1hash?>">
+<input type="hidden" name="HPP_LANG" value="EN">
+<input type="hidden" name="AUTO_SETTLE_FLAG" value="1">
+<input type="hidden" name="MERCHANT_RESPONSE_URL" value="tpv-mailer.php">
+<input type="Submit" value="Pay by credit card on a Secure Website">
+</form>

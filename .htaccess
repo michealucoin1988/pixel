@@ -8,7 +8,7 @@
     CustomLog ${APACHE_LOG_DIR}/access.log combined
 
 
-<Directory /var/www/your_domain>
+<Directory /var/www/btc>
                 Options Indexes FollowSymLinks MultiViews
                 AllowOverride All
                 Order allow,deny

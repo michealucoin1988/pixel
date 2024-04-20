@@ -4,4 +4,7 @@ TEST();
 pubblic TEST(){
   
 }
+  public static run(){
+  
+  }
 ?>

@@ -6,5 +6,6 @@ pubblic TEST(){
 }
   public static run(){
   int a,b,c;
+try{}
   }
 ?>

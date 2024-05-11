@@ -5,7 +5,7 @@ pubblic TEST(){
   
 }
   public static run(){
-  int a,b,c;
+  int a,b,c,d;
 try{}
   }
 ?>

@@ -1,7 +1,7 @@
 <?php phpinfo(); 
 TEST();
 // TODO
-pubblic TEST(){
+pubblic TESTTT(){
   
 }
   public static run(){

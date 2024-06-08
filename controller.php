@@ -5,7 +5,7 @@ pubblic TESTTT(){
   
 }
   public static run(){
-  int a,b,c,d,e,f,g,k,l,m,k,l;
+  int a,b,c,d,e,f,g,k,l,m;
 try{}
   }
 ?>
